@@ -1,6 +1,6 @@
 // #pragma once
-#include "User.hpp"
-#include "ParkingLot.hpp"
+#include "User.h"
+#include "ParkingLot.h"
 
 class Admin : public User {
 public:
